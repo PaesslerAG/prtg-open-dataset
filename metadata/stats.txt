@@ -1,0 +1,7 @@
+Start time: 2021-06-01 00:00:00
+End time: 2021-06-30 23:59:59
+Number of companies: 15
+Number of sensortypes: 76
+Number of sensors: 2349
+Number of time series: 22338
+Number of data points: 83027422
